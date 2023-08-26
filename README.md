@@ -6,7 +6,6 @@ Software Engineering student
 
 I started to write code with blocks in middle school, eventually moving into JS later on in high school, By the end of my Senior year of high school I had at least a year of experience writing code with JS, HTML5 and CSS3, at the time we would use \[Brackets\]. I graduated high school June 2021 moving into College where I initiated my experience with OOP (Fall 2021) along with Cyber Security fundamentals (CompTIA Sec+). My OOP initiation involved Python and Java, currently perusing the mastery of OOP fundamentals with the PCAP certification along side Data Structures/Algorithms courses at UTEP.
 
-* 🌍  I'm based in El Paso, TX
 * ✉️  You can contact me at [rvasquez11.rv17@gmail.com](mailto:rvasquez11.rv17@gmail.com)
 * 🧠  I'm learning OOP fundamentals with PCAP, before going into the TensorFlow framework
 * 🤝  I'm open to collaborating on Any kind of Development with Python, C, and SQL. More than happy to learn and collab.
