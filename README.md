@@ -8,7 +8,7 @@ I started to write code with blocks in middle school, eventually moving into JS 
 
 * ✉️  You can contact me at [rvasquez11.rv17@gmail.com](mailto:rvasquez11.rv17@gmail.com)
 * 🧠  I'm working on The-Sequence-Of-Nature web-app and as well as a REST API, once i'm done with these projects I look forward into learning and creating a TensorFlow project
-* 🤝  I'm open to collaborating on Any kind of Development with Python, C, and SQL. More than happy to learn and collab.
+* 🤝  I'm open to collaborating on Any kind of Development with Python, C, and SQL, TensorFlow, ML. More than happy to learn and collab.
 * ⚡  I have a metal collar bone :). Thanks to Soccer and Skating.
 
 ### Skills
