@@ -11,21 +11,19 @@ I started to write code with blocks in middle school, eventually moving into JS 
 * 🤝  I'm open to collaborating on Any kind of Development with Python, C, and SQL, TensorFlow, ML. More than happy to learn and collab.
 * ⚡  I have a metal collar bone :). Thanks to Soccer and Skating.
 
+
 ### Skills
-
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
 
 
 ### Socials
-
 <p align="left">
   <a href="https://www.github.com/esprij" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
   <a href="https://www.linkedin.com/in/ruben-vasquez-27b2a121b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
-### Badges
 
+### Badges
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/esprij"><img src="https://github-readme-stats.vercel.app/api?username=esprij&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="esprij's GitHub stats" /></a>
