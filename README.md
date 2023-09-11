@@ -13,7 +13,7 @@ I started to write code with blocks in middle school, eventually moving into JS 
 
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,bootstrap,mysql,bash,powershell)](https://skillicons.dev)
 
 
 ### Socials
