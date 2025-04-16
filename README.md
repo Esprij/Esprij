@@ -16,7 +16,7 @@ While perusing the PCAP certification we also engaged in System Administration, 
 
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,sqlite,html,css,bash,powershell,bootstrap,flask,selenium,azure&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,sqlite,html,css,powershell,bootstrap,flask,azure&perline=6)](https://skillicons.dev)
 
 
 ### Socials
